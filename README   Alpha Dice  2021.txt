@@ -22,3 +22,9 @@ Also: I explored using Dwaves Quantum Advantage computer to make the RNG functio
 
 It was a fun exercise meant to practice python project building.  
 See jpg for example of it working.
+
+No shortcut included - to get a shortcut like the pic , on your Windows 10 desktop,
+Go to where youstored the   .py file.  vright click and   make a shortcut.
+Cut and paste it to vyour desktop - can drag and drop.
+Right click it to change icon and pic your own image.
+Note: you must already have python 3x installed and in your path statement to make this all work.
